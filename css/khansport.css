@@ -396,7 +396,7 @@ text-decoration:none;
 
 
 /*------------ADAPTIVE FOR PHONE------------*/
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
    .header{
 		display:none;
 	}
